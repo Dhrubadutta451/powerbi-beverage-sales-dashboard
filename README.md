@@ -64,7 +64,6 @@ The dashboard uses the following DAX measures, built on top of the `Data` table:
 ├── screenshots/
 │   └── dashboard-page1.png                 # Report preview image
 ├── README.md
-└── .gitignore
 ```
 
 ## ▶️ How to Use
