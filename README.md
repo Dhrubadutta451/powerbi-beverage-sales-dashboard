@@ -74,8 +74,6 @@ The dashboard uses the following DAX measures, built on top of the `Data` table:
 3. Use the slicers (Division, District, Month) to filter and explore sales performance.
 
 ## Notes
-
-- This repo tracks the `.pbix` file directly. Since Power BI files are binary, diffs between versions won't be human-readable in `git diff` — consider [pbi-tools](https://github.com/pbi-tools/pbi-tools) if you need meaningful version control on report internals.
 - No sensitive/live data connections are included; all data is embedded in the file.
 - This dashboard is the sales-focused counterpart to a related HR workforce analytics project.
 
