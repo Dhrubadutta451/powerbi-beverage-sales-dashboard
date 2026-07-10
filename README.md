@@ -79,6 +79,6 @@ The dashboard uses the following DAX measures, built on top of the `Data` table:
 - No sensitive/live data connections are included; all data is embedded in the file.
 - This dashboard is the sales-focused counterpart to a related HR workforce analytics project.
 
-## 📄 License
+## License
 
-Add a license of your choice (e.g., MIT) if you intend this to be reused by others.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
