@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing beverage sales performance — revenue, units sold, pricing, and brand mix — across divisions and districts.
 
-## 📸 Preview
+## Preview
 
 ![Sales Dashboard Preview](dashboard-page1.png)
 
