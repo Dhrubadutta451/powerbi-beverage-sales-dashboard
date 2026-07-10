@@ -4,7 +4,7 @@ An interactive Power BI dashboard analyzing beverage sales performance — reven
 
 ## 📸 Preview
 
-![Sales Dashboard Preview][Dashboard screenshot.png]
+![Sales Dashboard Preview](Dashboard screenshot.png)
 
 ## 📊 Report Overview
 
