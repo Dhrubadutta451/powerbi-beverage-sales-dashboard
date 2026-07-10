@@ -10,7 +10,7 @@ An interactive Power BI dashboard analyzing beverage sales performance — reven
 - Let stakeholders slice the data by Division, District, and Beverage Brand to drill into specific regions or products
 
 **Target audience:** sales managers, regional analysts, and business stakeholders who need a quick, filterable view of beverage sales performance without querying raw data.
-
+https://github.com/Dhrubadutta451/powerbi-beverage-sales-dashboard/blob/main/powerbi-bevarage-sales-dashboard.pbix
 ## Preview
 
 ![Sales Dashboard Preview](dashboard-page1.png)
