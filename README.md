@@ -4,7 +4,7 @@ An interactive Power BI dashboard analyzing beverage sales performance — reven
 
 ## 📸 Preview
 
-![Sales Dashboard Preview](Dashboard screenshot.png)
+![Sales Dashboard Preview](screenshots/dashboard-page1.png)
 
 ## 📊 Report Overview
 
@@ -55,6 +55,7 @@ The dashboard uses the following DAX measures, built on top of the `Data` table:
 ├── screenshots/
 │   └── dashboard-page1.png                 # Report preview image
 ├── README.md
+└── .gitignore
 ```
 
 ## ▶️ How to Use
@@ -72,5 +73,3 @@ The dashboard uses the following DAX measures, built on top of the `Data` table:
 ## 📄 License
 
 Add a license of your choice (e.g., MIT) if you intend this to be reused by others.
-# powerbi-beverage-sales-dashboard
-Interactive Power BI dashboard analyzing beverage sales performance — revenue, units sold, pricing, and brand mix — across divisions and districts.
