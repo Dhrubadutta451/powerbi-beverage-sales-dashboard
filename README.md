@@ -16,7 +16,7 @@ An interactive Power BI dashboard analyzing beverage sales performance — reven
 
 ![Sales Dashboard Preview](dashboard-page1.png)
 
-## 📊 Report Overview
+## Report Overview
 
 **Single-page dashboard** with:
 
@@ -27,7 +27,7 @@ An interactive Power BI dashboard analyzing beverage sales performance — reven
 - **Sum of Units Sold by Beverage Brand** — donut chart showing brand mix (Coca-Cola, Dasani Water, Diet Coke, Sprite, Fanta, Powerade)
 - **Sum of Profit and Sum of Revenue by Beverage Brand** — diverging bar chart comparing profit vs. revenue per brand
 
-## 🗂 Data Model
+##  Data Model
 
 | Table | Sample Fields |
 |---|---|
@@ -35,7 +35,7 @@ An interactive Power BI dashboard analyzing beverage sales performance — reven
 | `Cost` | Beverage Brand |
 | `Dates` | Day Name, Weekday |
 
-## 📐 Measures & Calculation Process
+##  Measures & Calculation Process
 
 The dashboard uses the following DAX measures, built on top of the `Data` table:
 
@@ -57,7 +57,7 @@ The dashboard uses the following DAX measures, built on top of the `Data` table:
 - **Power BI Desktop** (2026.04 release or later recommended, to match the report's theme file)
 - No external data connections required beyond what's embedded in the `.pbix`
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 .
@@ -67,13 +67,13 @@ The dashboard uses the following DAX measures, built on top of the `Data` table:
 ├── README.md
 ```
 
-## ▶️ How to Use
+## How to Use
 
 1. Clone this repository.
 2. Open `powerbi-bevarage-sales-dashboard.pbix` in Power BI Desktop.
 3. Use the slicers (Division, District, Month) to filter and explore sales performance.
 
-## 📝 Notes
+## Notes
 
 - This repo tracks the `.pbix` file directly. Since Power BI files are binary, diffs between versions won't be human-readable in `git diff` — consider [pbi-tools](https://github.com/pbi-tools/pbi-tools) if you need meaningful version control on report internals.
 - No sensitive/live data connections are included; all data is embedded in the file.
