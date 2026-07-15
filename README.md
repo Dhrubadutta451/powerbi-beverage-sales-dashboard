@@ -1,5 +1,5 @@
 # Power BI Beverage Sales Dashboard
-## Objective
+## Objectiv
 An interactive Power BI dashboard analyzing beverage sales performance — revenue, units sold, pricing, and brand mix — across divisions and districts.This project visualizes beverage sales data for a distribution business operating across multiple divisions and districts in Bangladesh. It brings together revenue, volume, pricing, and profitability metrics for six beverage brands (Coca-Cola, Dasani Water, Diet Coke, Sprite, Fanta, Powerade) into a single interactive report.
 
 **Goals of the dashboard:**
